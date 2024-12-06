@@ -1,0 +1,40 @@
+*{
+
+    margin:0;
+    padding: 0;
+}
+
+.bigcontainer{
+    height: 400px;
+    width:400px;
+    background-color: rgb(156, 173, 221);
+    margin-left: 550px;
+    margin-top: 120px;
+    border: 1px solid;
+    border-radius: 30px;
+    box-shadow: 3px 3PX;
+    
+}
+
+.container{
+    padding-top: 20px;
+    margin: 20px 110px;
+    justify-content: center;
+    align-items: center;
+    font-size: medium;
+    border: 2px;
+}
+
+.button input{
+    padding: 10px;
+    margin-left: 25px;
+    box-shadow: 2px 2px;    
+    background-color: rgb(163, 224, 224);
+
+}
+
+mark{
+    background-color: blue;
+    color: cornsilk;
+    padding: 5px;
+}
